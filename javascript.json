@@ -1,0 +1,9 @@
+{
+  "Print to console": {
+    "prefix": "cwarn",
+    "body": [
+      "console.warn('%c$1\\n', 'background: #000; color: #fff;', $1);"
+    ],
+    "description": "warn to console"
+  }
+}
