@@ -1,28 +1,37 @@
 {
-    "gitlens.historyExplorer.enabled": true,
-    "editor.minimap.enabled": false,
-    "editor.formatOnSave": true,
-    "files.autoSave": "onFocusChange",
-    "window.title": "${rootName}${separator}${dirty}${activeEditorMedium}${separator}",
-    "search.location": "panel",
-    "editor.tabSize": 2,
-    "workbench.fontAliasing": "antialiased",
-    "explorer.sortOrder": "type",
-    "[python]": {
-        "editor.tabSize": 4
-    },
-    "editor.scrollBeyondLastLine": false,
-    "gitlens.advanced.messages": {
-        "suppressShowKeyBindingsNotice": true
-    },
-    "emmet.triggerExpansionOnTab": true,
-    "javascript.updateImportsOnFileMove.enabled": "never",
-    "workbench.colorTheme": "Default Light+",
-    "window.zoomLevel": 0,
-    "editor.fontSize": 13,
-    "breadcrumbs.enabled": true,
-    "workbench.statusBar.feedback.visible": false,
-    "workbench.tips.enabled": false,
-    "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.editor.revealIfOpen": true
+  "gitlens.historyExplorer.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "window.title": "${rootName}${separator}${dirty}${activeEditorMedium}${separator}",
+  "search.location": "panel",
+  "editor.tabSize": 2,
+  "workbench.fontAliasing": "antialiased",
+  "explorer.sortOrder": "type",
+  "[python]": {
+    "editor.tabSize": 4
+  },
+  "editor.scrollBeyondLastLine": false,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "window.zoomLevel": 0,
+  "editor.fontSize": 14,
+  "breadcrumbs.enabled": false,
+  "workbench.statusBar.feedback.visible": false,
+  "workbench.tips.enabled": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.revealIfOpen": true,
+  "terminal.integrated.fontSize": 14,
+  "prettier.eslintIntegration": true,
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "files.insertFinalNewline": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "prettier.tslintIntegration": true,
+  "editor.fontFamily": "\"Input Mono\"",
+  "editor.fontLigatures": true
 }
