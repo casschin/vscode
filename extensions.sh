@@ -1,11 +1,14 @@
+code --install-extension alefragnani.Bookmarks
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension christian-kohler.path-intellisense
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dracula-theme.theme-dracula
 code --install-extension eamodio.gitlens
+code --install-extension eg2.tslint
 code --install-extension eg2.vscode-npm-script
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension esbenp.prettier-vscode
+code --install-extension GitHub.vscode-pull-request-github
 code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension ms-python.python
 code --install-extension PeterJausovec.vscode-docker
@@ -16,3 +19,6 @@ code --install-extension shardulm94.trailing-spaces
 code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscodevim.vim
 code --install-extension vsmobile.vscode-react-native
+code --install-extension wmaurer.change-case
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension ziyasal.vscode-open-in-github
