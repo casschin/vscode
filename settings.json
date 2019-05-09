@@ -17,12 +17,25 @@
   },
   "emmet.triggerExpansionOnTab": true,
   "javascript.updateImportsOnFileMove.enabled": "never",
-  "workbench.colorTheme": "Default Light+",
   "window.zoomLevel": 0,
   "editor.fontSize": 13,
   "breadcrumbs.enabled": true,
   "workbench.statusBar.feedback.visible": false,
   "workbench.tips.enabled": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
-  "workbench.editor.revealIfOpen": true
+  "workbench.editor.revealIfOpen": true,
+  "workbench.iconTheme": "eq-material-theme-icons-palenight",
+  "eslint.packageManager": "yarn",
+  "terminal.integrated.fontSize": 14,
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "files.insertFinalNewline": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "npm.enableScriptExplorer": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.smoothScrolling": true
 }
